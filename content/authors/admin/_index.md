@@ -4,37 +4,41 @@ role: PhD student in Political Science
 avatar_filename: fb_img_1526663623021.jpg
 bio: My research interests include election administration and the politics of
   electoral reform.
-interests: []
+interests:
+  - Election Administration
+  - electoral reform
+  - local politics
+  - New Zealand politics
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Jferrer505
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=3Wd-5I8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jferrer2017
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/joshua-ferrer-22273797/
 organizations:
   - name: University of California, Los Angeles
     url: https://www.ucla.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD student in Political Science
+      institution: University of California, Los Angeles
+      year: ""
+    - course: MA in Politics
+      institution: University of Otago
+      year: 2020
+    - course: BA in Political Science and Music
+      institution: Amherst College
+      year: 2018
 email: jferrer2017@gmail.com
 superuser: true
 highlight_name: true
