@@ -1,6 +1,6 @@
 ---
 title: Joshua Ferrer
-role: PhD student in Political Science, University of California, Los Angeles
+role: PhD student in Political Science
 avatar_filename: fb_img_1526663623021.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Los Angeles
+    url: https://www.ucla.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -38,7 +38,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: jferrer2017@gmail.com
 superuser: true
 highlight_name: true
 ---
