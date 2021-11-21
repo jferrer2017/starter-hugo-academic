@@ -2,12 +2,9 @@
 title: Joshua Ferrer
 role: PhD student in Political Science
 avatar_filename: fb_img_1526663623021.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include election administration and the politics of
+  electoral reform.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
