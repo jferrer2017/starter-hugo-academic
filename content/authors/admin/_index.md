@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include election administration and the politics of
   electoral reform.
 interests:
-  - Election Administration
-  - electoral reform
-  - local politics
+  - Election administration
+  - Electoral reform
+  - Local politics
   - New Zealand politics
 social:
   - icon: envelope
