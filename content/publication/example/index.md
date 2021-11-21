@@ -1,28 +1,29 @@
 ---
-abstract: ""
-slides: ""
-url_pdf: ""
+title: Re-Evaluating consensus in New Zealand election reform
 publication_types:
   - "2"
 authors:
   - Joshua Ferrer
-author_notes: []
-publication: Political Science
-summary: ""
-url_dataset: ""
-url_project: ""
 publication_short: ""
-url_source: ""
-url_video: ""
-title: Re-Evaluating consensus in New Zealand election reform
-doi: https://doi.org/10.1080/00323187.2020.1859337
-featured: true
+abstract: ""
+draft: false
+featured: false
 tags: []
-projects: []
+slides: ""
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: https://doi.org/10.1080/00323187.2020.1859337
+publication: Political Science
+projects: []
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
