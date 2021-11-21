@@ -7,7 +7,7 @@ authors:
 publication_short: ""
 abstract: ""
 draft: false
-featured: false
+featured: true
 tags: []
 slides: ""
 url_pdf: ""
