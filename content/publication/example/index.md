@@ -1,21 +1,5 @@
 ---
-abstract: It is commonly believed that a norm of consensus-based election reform
-  exists in New Zealand. However, this belief has yet to be tested with
-  systematic study of changes to the democratic rules of the game. This article
-  empirically analyzes the extent to which partisan and restrictive election
-  rules have been proposed and enacted since passage of the Electoral Act 1956.
-  Using a novel matrix of election lawmaking, a wealth of primary textual
-  sources, and interviews with key actors, the data show clear evidence that
-  election reforms are routinely partisan and have occasionally curtailed
-  democratic participation. An analysis of election lawmaking by political party
-  reveals that Labour is responsible for most partisan election reforms, whereas
-  National has passed most demobilising enactments. These trends extend to
-  proposed members’ bills and across multiple governments. The findings
-  highlight the need for scholars to take seriously the importance of a broader
-  array of election reforms beyond the electoral system, including voter and
-  registration administration, franchise rules, ballot initiatives, electoral
-  governance, and campaign finance. It also underscores the need for systematic
-  study of election reforms in a wider variety of countries.
+abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
