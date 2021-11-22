@@ -3,6 +3,7 @@ title: "The Effects of Proportional Representation on Election Lawmaking:
   Evidence from New Zealand"
 publication_types:
   - "3"
+  - "7"
 authors:
   - Joshua Ferrer
 publication: Submitted
