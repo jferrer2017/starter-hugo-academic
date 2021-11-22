@@ -2,7 +2,7 @@
 widget: pages
 widget_id: reports
 headless: true
-weight: 65
+weight: 70
 title: Reports
 subtitle: ""
 content:
