@@ -19,9 +19,6 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=3Wd-5I8AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/jferrer2017
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/joshua-ferrer-22273797/
