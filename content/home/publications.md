@@ -11,11 +11,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: 
-      - "2"
-      - "4"
-      - "5"
-      - "6"
+    publication_type: "2" | "4"
     tag: ""
   order: desc
 design:
