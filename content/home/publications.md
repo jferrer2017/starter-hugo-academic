@@ -11,7 +11,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "2" | "4"
+    publication_type: "2"
     tag: ""
   order: desc
 design:
