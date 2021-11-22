@@ -2,8 +2,8 @@
 widget: pages
 widget_id: Research
 headless: true
-weight: 80
-title: Research
+weight: 60
+title: Publications
 subtitle: ""
 content:
   page_type: publication
