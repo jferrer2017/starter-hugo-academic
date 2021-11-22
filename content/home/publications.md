@@ -11,7 +11,11 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "-3"
+    publication_type: 
+      - "2"
+      - "4"
+      - "5"
+      - "6"
     tag: ""
   order: desc
 design:
