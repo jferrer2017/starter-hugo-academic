@@ -7,7 +7,7 @@ authors:
 doi: https://doi.org/10.1080/00323187.2020.1859337
 publication: Political Science
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
