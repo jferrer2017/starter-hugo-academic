@@ -6,7 +6,7 @@ authors:
   - Joshua Ferrer
 publication: Transparency International New Zealand
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
