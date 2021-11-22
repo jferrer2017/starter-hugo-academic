@@ -19,12 +19,12 @@ main:
   - name: Research
     url: '#publications'
     weight: 50
-  - name: CV
-  -name: Working Papers
+  - name: Working Papers
     url: 'workingpapers'
     weight: 55
+  - name: CV
     url: uploads/resume.pdf
-    weight: 60
+    weight: 60    
   - name: Contact
     url: '#contact'
     weight: 70
