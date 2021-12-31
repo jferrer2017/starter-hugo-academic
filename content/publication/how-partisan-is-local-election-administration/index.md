@@ -6,6 +6,7 @@ authors:
   - Joshua Ferrer
   - Igor Geyn
   - Dan Thompson
+publication: Submitted
 draft: false
 featured: true
 image:
