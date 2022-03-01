@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Joshua Ferrer
-publication: Conditionally Accepted
+publication: In Press
 draft: false
 featured: true
 image:
