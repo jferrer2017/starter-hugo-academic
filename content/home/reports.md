@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Research
+widget_id: reports
 headless: true
-weight: 60
-title: Publications
+weight: 70
+title: Reports
 subtitle: ""
 content:
   page_type: publication
@@ -11,7 +11,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: "2"
+    publication_type: "4"
     tag: ""
   order: desc
 design:

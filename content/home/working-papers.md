@@ -1,9 +1,9 @@
 ---
 widget: pages
-widget_id: Research
+widget_id: workingpapers
 headless: true
-weight: 80
-title: Research
+weight: 65
+title: Working Papers
 subtitle: ""
 content:
   page_type: publication
@@ -11,7 +11,7 @@ content:
   filters:
     author: ""
     category: ""
-    publication_type: ""
+    publication_type: "3"
     tag: ""
   order: desc
 design:
