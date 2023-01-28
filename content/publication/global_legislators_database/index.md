@@ -10,7 +10,7 @@ authors:
   - Esme Lillywhite
   - Noam Lupu
   - Eugenia Nazrullaeva
-publication: Working Paper
+publication: Submitted
 draft: false
 featured: true
 image:
