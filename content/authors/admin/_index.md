@@ -30,6 +30,9 @@ education:
     - course: PhD student in Political Science
       institution: University of California, Los Angeles
       year: ""
+    - course: MA in Political Science
+      institution: University of California, Los Angeles
+      year: 2022
     - course: MA in Politics
       institution: University of Otago
       year: 2020
