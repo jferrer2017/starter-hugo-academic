@@ -1,6 +1,6 @@
 ---
 title: Joshua Ferrer
-role: PhD student in Political Science
+role: PhD candidate in Political Science
 avatar_filename: avatar.jpg
 bio: My research interests include election administration and the politics of
   electoral reform.
