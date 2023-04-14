@@ -27,7 +27,7 @@ organizations:
     url: https://www.ucla.edu/
 education:
   courses:
-    - course: PhD candidte in Political Science
+    - course: PhD candidate in Political Science
       institution: University of California, Los Angeles
       year: ""
     - course: MA in Political Science
