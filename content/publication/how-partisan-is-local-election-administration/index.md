@@ -6,12 +6,12 @@ authors:
   - Joshua Ferrer
   - Igor Geyn
   - Dan Thompson
-publication: Submitted
+publication: Conditionally Accepted - American Political Science Review
 draft: false
 featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-14T09:03:51.380Z
+date: 2023-04-26T09:03:51.380Z
 ---
