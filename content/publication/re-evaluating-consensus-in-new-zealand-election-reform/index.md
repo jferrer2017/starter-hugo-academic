@@ -1,5 +1,5 @@
 ---
-title: Re-Evaluating consensus in New Zealand election reform
+title: Re-Evaluating Consensus in New Zealand Election Reform
 publication_types:
   - "2"
 authors:
