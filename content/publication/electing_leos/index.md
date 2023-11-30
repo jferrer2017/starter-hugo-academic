@@ -1,5 +1,5 @@
 ---
-title: Does Appointing Election Officials Produce Better Election Administration?
+title: To Elect or Appoint? Evidence from Local Election Administration.
 publication_types:
   - "3"
 authors:
@@ -11,5 +11,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-10-19T09:03:51.380Z
+date: 2023-11-19T09:03:51.380Z
 ---

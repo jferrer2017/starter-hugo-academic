@@ -2,7 +2,7 @@
 title: Black Lives Matter and the Racialized Support for the January 6 Insurrection
 subtitle: 
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Joshua Ferrer
   - Matt Barreto
@@ -12,7 +12,7 @@ authors:
   - Joyce Nguy
   - Christopher Palmisano
   - Crystal Robertson
-publication: Submitted
+publication: Forthcoming, Annals of the American Academy of Political and Social Science
 draft: false
 featured: true
 image:
