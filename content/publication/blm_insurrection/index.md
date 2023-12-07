@@ -4,11 +4,11 @@ subtitle:
 publication_types:
   - "2"
 authors:
-  - Joshua Ferrer
   - Matt Barreto
   - Claudia Alegre
   - Isaiah Bailey
   - Alexandria Davis
+  - Joshua Ferrer
   - Joyce Nguy
   - Christopher Palmisano
   - Crystal Robertson
