@@ -12,12 +12,13 @@ authors:
   - Joyce Nguy
   - Christopher Palmisano
   - Crystal Robertson
-publication: Forthcoming, Annals of the American Academy of Political and Social Science
+doi: https://doi.org/10.1177/00027162241228395
+publication: Annals of the American Academy of Political and Social Science
 draft: false
 featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-08-20T07:59:00.000Z
+date: 2023-07-20T07:59:00.000Z
 ---
