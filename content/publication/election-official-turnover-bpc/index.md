@@ -7,7 +7,6 @@ authors:
   - Joshua Ferrer
   - Daniel M. Thompson
   - Rachel Orey
-url: https://bipartisanpolicy.org/report/election-official-turnover-rates-from-2000-2024/
 publication: Bipartisan Policy Center
 draft: false
 featured: true
