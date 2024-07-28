@@ -4,7 +4,7 @@ widget_id: job_mkt_paper
 headless: true
 weight: 20
 title: Job Market Paper
-subtitle: 
+subtitle: ""
 content:
   page_type: job_mkt_paper
   count: 0
@@ -13,7 +13,6 @@ content:
     category: ""
     publication_type: ""
     tag: ""
-    title: ""
   order: desc
 design:
   view: 3
