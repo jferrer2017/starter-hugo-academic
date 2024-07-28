@@ -2,16 +2,16 @@
 widget: pages
 widget_id: job_mkt_paper
 headless: true
-weight: 70
+weight: 20
 title: Job Market Paper
-subtitle: "To Elect or Appoint? Evidence from Local Election Administration"
+subtitle: 
 content:
   page_type: publication
   count: 0
   filters:
     author: ""
     category: ""
-    publication_type: "2"
+    publication_type: ""
     tag: ""
   order: desc
 design:
