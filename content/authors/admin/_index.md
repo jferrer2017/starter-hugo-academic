@@ -6,9 +6,9 @@ bio: My research interests include election administration and the politics of
   electoral reform.
 interests:
   - Election administration
-  - Electoral reform
   - Local and state politics
   - Racial and ethnic politics
+  - Electoral reform
   - New Zealand politics
 social:
   - icon: envelope
@@ -44,6 +44,6 @@ email: joshuaferrer@ucla.edu
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate in Political Science at the University of California, Los Angeles, with concentrations in American politics, methods, racial and ethnic politics, and comparative politics. My research focuses on the link between electoral institutions and representation, partisanship, and participation, with a special emphasis on U.S. election administration and local and state election officials. I also study the politics of electoral reform, direct democracy, primary elections, criminal justice, and New Zealand politics.
+I am a PhD candidate in Political Science at the University of California, Los Angeles, with concentrations in American politics, methods, racial and ethnic politics, and comparative politics. My dissertation examines emerging challenges to election administration in the U.S. amid institutional and political turmoil and the first attempt by a sitting president to overturn democratic election results. Are election officials up to the task of overseeing free and fair elections given increasing partisan polarization, the limits of accountability for local offices, a diversifying America, heightened turnover in the profession, and aggrandizing actions at the state level? I combine large-scale original data on local election officials with administrative datasets on elections and employ modern empirical techniques for causal inference to study questions about partisanship, accountability, representation, public administration, and federalism. I also study the racliaization of anti-democratic attitudes, the politics of electoral reform, primary elections, and New Zealand politics.
 
-I hold a Master of Arts degree in Political Science from the University of California, Los Angeles and a Master of Arts degree in Politics from the University of Otago, which I earned on a Fulbright Grant to New Zealand. I graduated Summa Cum Laude from Amherst College with majors in Political Science and Music. My work has been published in peer-reviewed journals such as *The American Political Science Review*, *The ANNALS of the American Academy of Political and Social Science*, and *Representation*; in reports with the Bipartisan Policy Center and Transparency International; and in media outlets such as *The Washington Post* and *The Conversation*. My work has also received coverage from major news sites including *NBC*, *NPR*, and *The Guardian*.
+I hold a Master of Arts degree in Political Science from the University of California, Los Angeles and a Master of Arts degree in Politics from the University of Otago, which I earned on a Fulbright Grant to New Zealand. I graduated Summa Cum Laude from Amherst College with majors in Political Science and Music. My work has been published or is forthcoming in peer-reviewed journals such as *The American Political Science Review* and *The British Journal of Political Science*; in reports with the Bipartisan Policy Center and Transparency International; and in media outlets such as *The Washington Post* and *The Conversation*. My work has also received coverage from major news sites including *NBC*, *NPR*, and *The Guardian*.
