@@ -6,14 +6,14 @@ weight: 20
 title: Job Market Paper
 subtitle: 
 content:
-  page_type: publication
+  page_type: job_mkt_paper
   count: 0
   filters:
-    author: "Joshua Ferrer"
+    author: ""
     category: ""
-    publication_type: "1"
+    publication_type: ""
     tag: ""
-    title: "To Elect or Appoint? Evidence from Local Election Administration."
+    title: ""
   order: desc
 design:
   view: 3
