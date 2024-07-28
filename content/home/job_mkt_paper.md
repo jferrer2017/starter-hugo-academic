@@ -13,6 +13,7 @@ content:
     category: ""
     publication_type: ""
     tag: ""
+    title: "To Elect or Appoint? Evidence from Local Election Administration."
   order: desc
 design:
   view: 3
