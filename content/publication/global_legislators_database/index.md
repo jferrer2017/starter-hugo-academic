@@ -2,7 +2,7 @@
 title: The Global Legislators Database
 subtitle: The Personal Backgrounds of National Legislators in the World's Democracies
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Nicholas Carnes
   - Joshua Ferrer
@@ -17,5 +17,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-12-03T07:59:00.000Z
+date: 2024-7-25T07:59:00.000Z
 ---
