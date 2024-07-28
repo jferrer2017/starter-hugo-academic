@@ -6,12 +6,12 @@ weight: 20
 title: Job Market Paper
 subtitle: ""
 content:
-  page_type: job_mkt_paper
+  page_type: publication
   count: 0
   filters:
     author: ""
     category: ""
-    publication_type: ""
+    publication_type: "7"
     tag: ""
   order: desc
 design:
