@@ -4,6 +4,7 @@ publication_types:
   - "3"
 authors:
   - Joshua Ferrer
+  - Christopher Palmisano
 publication: Under Review
 draft: false
 featured: true
