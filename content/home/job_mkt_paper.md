@@ -11,7 +11,7 @@ content:
   filters:
     author: "Joshua Ferrer"
     category: ""
-    publication_type: "3"
+    publication_type: "1"
     tag: ""
     title: "To Elect or Appoint? Evidence from Local Election Administration."
   order: desc

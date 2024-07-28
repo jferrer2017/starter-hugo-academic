@@ -1,7 +1,7 @@
 ---
 title: To Elect or Appoint? Evidence from Local Election Administration.
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Joshua Ferrer
 publication: Revise and Resubmit, Quarterly Journal of Political Science
