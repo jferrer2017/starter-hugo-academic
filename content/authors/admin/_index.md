@@ -44,7 +44,7 @@ email: joshuaferrer@ucla.edu
 superuser: true
 highlight_name: true
 ---
-I am a PhD candidate in Political Science at the University of California, Los Angeles, with concentrations in American politics, methods, racial and ethnic politics, and comparative politics. My research studies challenges to democratic elections in the United States, with an emphasis on state and local politics. I combine large-scale original data collections on elections with administrative datasets, employ modern empirical techniques for causal inference, and field large-scale survey experiments to study questions about partisanship, accountability, and representation. 
+I am a PhD candidate in Political Science at the University of California, Los Angeles, with concentrations in American politics, methods, racial and ethnic politics, and comparative politics. My research studies challenges to democratic elections in the United States, with an emphasis on state and local politics. I combine large-scale original data collections on elections with administrative datasets, employ modern empirical techniques for causal inference, and field survey experiments to study questions about partisanship, accountability, and representation. 
 
 My dissertation uses this approach to study election administration in the U.S. and its resiliency in the face of increasing partisan polarization, the limits of accountability for local offices, underrepresentation of racial minorities, and heightened turnover in the profession. I also study the racliaization of anti-democratic attitudes, primary elections, and the politics of electoral reform.
 
