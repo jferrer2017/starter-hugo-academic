@@ -10,7 +10,7 @@ authors:
   - Esme Lillywhite
   - Noam Lupu
   - Eugenia Nazrullaeva
-publication: Forthcoming, British Journal of Political Science
+publication: Conditionally Accepted, British Journal of Political Science
 draft: false
 featured: true
 image:
