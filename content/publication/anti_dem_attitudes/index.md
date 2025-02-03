@@ -5,12 +5,13 @@ publication_types:
 authors:
   - Joshua Ferrer
   - Christopher Palmisano
-publication: Forthcoming, Journal of Race, Ethnicity, and Politics
+doi: https://doi.org/10.1017/rep.2025.1
+publication: Journal of Race, Ethnicity, and Politics
 draft: false
 featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-12-13T09:03:51.380Z
+date: 2025-02-03T09:03:51.380Z
 ---
