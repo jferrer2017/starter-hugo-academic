@@ -1,5 +1,5 @@
 ---
-title: Beyond the Trump Presidency. The Racial Underpinnings of White Americans' Anti-Democratic Beliefs.
+title: Beyond the Trump Presidency. The Racial Underpinnings of White Americans' Anti-Democratic Beliefs
 publication_types:
   - "2"
 authors:

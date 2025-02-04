@@ -1,5 +1,5 @@
 ---
-title: To Elect or Appoint? Evidence from Local Election Administration.
+title: To Elect or Appoint? Evidence from Local Election Administration
 publication_types:
   - "3"
 authors:
