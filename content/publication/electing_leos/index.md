@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Joshua Ferrer
-publication: Revised and Resubmited, Quarterly Journal of Political Science
+publication: Conditionally Accepted, Quarterly Journal of Political Science
 draft: false
 featured: true
 image:
