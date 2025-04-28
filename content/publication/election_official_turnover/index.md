@@ -5,12 +5,12 @@ publication_types:
 authors:
   - Joshua Ferrer
   - Daniel M. Thompson
-publication: Under Review
+publication: R&R, American Journal of Political Science
 draft: false
 featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-01-30T09:03:51.380Z
+date: 2025-03-17T09:03:51.380Z
 ---
