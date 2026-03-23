@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Joshua Ferrer
   - Zoltan Hajnal
-publication: Working Paper
+publication: Working Paper (Under Review)
 draft: false
 featured: true
 image:
