@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Joshua Ferrer
-publication: Working Paper
+publication: Working Paper (Under Review)
 draft: false
 featured: true
 image:
