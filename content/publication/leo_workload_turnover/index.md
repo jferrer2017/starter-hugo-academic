@@ -1,5 +1,5 @@
 ---
-title: The Effect of Partisan Primaries on Turnout and Representation
+title: The Effect of Workload on Public Official Retention. Evidence from Local Election Officials
 publication_types:
   - "3"
 authors:
@@ -11,5 +11,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2026-05-30T09:03:51.380Z
+date: 2026-01-31T09:03:51.380Z
 ---

@@ -1,9 +1,10 @@
 ---
-title: Partisanship in Local Bureaucratic Appointments. Evidence from Election Administration
+title: Are Fewer Elections Better Elections? The Impact of On-Cycle Elections on the Electoral Experience
 publication_types:
   - "3"
 authors:
   - Joshua Ferrer
+  - Zoltan Hajnal
 publication: Working Paper (Under Review)
 draft: false
 featured: true
@@ -11,5 +12,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2026-04-13T09:03:51.380Z
+date: 2026-03-06T09:03:51.380Z
 ---
