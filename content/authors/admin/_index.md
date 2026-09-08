@@ -2,13 +2,12 @@
 title: Joshua Ferrer
 role: Assistant Professor of Government
 avatar_filename: avatar.jpg
-bio: My research interests include election administration and the politics of
-  electoral reform.
+bio: My research interests include election administration and primary elections.
 interests:
   - Election administration
+  - Primary elections
   - Local and state politics
   - Racial and ethnic politics
-  - Electoral reform
   - New Zealand politics
 social:
   - icon: envelope
@@ -46,6 +45,6 @@ highlight_name: true
 ---
 I am an Assistant Professor of Government in the School of Public Affairs at American University. My research studies challenges to democratic elections in the United States, with an emphasis on state and local politics. I combine large-scale original data collections on elections with administrative datasets, employ modern empirical techniques for causal inference, and field survey experiments to investigate questions about partisanship, accountability, and representation.
 
-My dissertation used this approach to study election administration in the U.S. and its resilience in the face of increasing partisan polarization, the limits of accountability for local offices, underrepresentation of racial minorities, and heightened turnover in the profession. I also study the racialization of anti-democratic attitudes, primary elections, and the politics of electoral reform.
+My dissertation, winner of the Best Dissertation Award from the Urban and Local Politics Section of the American Political Science Association, used this approach to study election administration in the U.S. and its resilience in the face of increasing partisan polarization, the limits of accountability for local offices, underrepresentation of racial minorities, and heightened turnover in the profession. I also study primary elections, the racialization of anti-democratic attitudes, and the politics of electoral reform.
 
 I earned my PhD in Political Science at the University of California, Los Angeles, with concentrations in American politics, methods, racial and ethnic politics, and comparative politics. I hold a Master of Arts degree in Political Science from the University of California, Los Angeles and a Master of Arts degree in Politics from the University of Otago, which I earned on a Fulbright Grant to New Zealand. I graduated Summa Cum Laude from Amherst College with majors in Political Science and Music. My work has been published or is forthcoming in peer-reviewed journals such as *The American Political Science Review*, *The American Journal of Political Science*,  *The British Journal of Political Science*, and *The Quarterly Journal of Political Science* and in reports for the Bipartisan Policy Center and Transparency International. My work has also received coverage from major news sites including *The Economist*, *NBC*, *NPR*, *PBS*, *CBS*, *Bloomberg*, *USA Today*, *CNN*, and *The Guardian*.
